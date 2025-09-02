@@ -1,18 +1,31 @@
 # 🚀 End-to-End Data Engineering Project on Azure
 
-This project demonstrates how to build a **full-scale data engineering solution** on **Microsoft Azure**. Using the **AdventureWorks dataset** (sourced from GitHub), the pipeline handles ingestion, transformation, warehousing, and visualization stages.  
+## 📄 Project Summary
+This project demonstrates how to build a **full-scale data engineering solution** on **Microsoft Azure**. It processes raw data from the **AdventureWorks dataset** (sourced from GitHub) and moves it through **ingestion, transformation, warehousing, and visualization** stages.  
 
-The solution leverages:  
-
-- **Azure Data Factory (ADF)** – Orchestrates data ingestion and workflow automation  
-- **Azure Databricks** – Handles scalable transformations and computations  
-- **Azure Synapse Analytics** – Data warehousing and optimized querying  
-- **Power BI** – Interactive dashboards for business insights  
-
-The goal of this project is to showcase **end-to-end data engineering skills** and demonstrate how raw data can be transformed into actionable insights using Azure’s ecosystem.
+The solution leverages services like **Azure Data Factory, Azure Databricks, Azure Synapse Analytics,** and **Power BI** to prepare and deliver high-quality data for **reporting and business insights**.  
 
 ---
 
+## 🎯 Project Goal
+The main objective of this project is to **showcase end-to-end data engineering skills** by building a pipeline that transforms raw data into **analytics-ready datasets**. This includes:  
+
+- Ingesting raw datasets into Azure Storage (Bronze layer)  
+- Cleaning and transforming data in **Databricks** (Silver layer)  
+- Structuring and optimizing data in **Azure Synapse Analytics** (Gold layer)  
+- Delivering **actionable insights** through **Power BI dashboards**  
+
+The project highlights how modern businesses can leverage **Azure’s ecosystem** to enable **data-driven decision-making**.
+
+---
+
+## 🛠️ Tech Stack
+- **Cloud Platforms:** Azure (ADF, Databricks, Synapse Analytics, Storage Account)  
+- **Data Engineering:** ETL pipelines, Medallion Architecture (Bronze → Silver → Gold), Data Lakehouse  
+- **Programming & Querying:** Python (Pandas, PySpark), SQL  
+- **Data Formats & Storage:** CSV, Parquet, Delta Lake  
+- **Visualization & BI:** Power BI  
+- **Version Control:** Git, GitHub  
 ## 🏗️ Architecture Overview
 
 ### Step 1: Provisioning Azure Resources ⚙️
