@@ -17,6 +17,9 @@ The main objective of this project is to **showcase end-to-end data engineering 
 
 The project highlights how modern businesses can leverage **Azure’s ecosystem** to enable **data-driven decision-making**.
 
+<img width="1263" height="670" alt="image" src="https://github.com/user-attachments/assets/b0ba4426-8289-4e41-993d-72bc8cd62374" />
+
+
 ---
 
 ## 🛠️ Tech Stack
