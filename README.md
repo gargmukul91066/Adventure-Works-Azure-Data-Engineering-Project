@@ -110,20 +110,11 @@ The pipeline transforms raw data into **analytics-ready datasets**, enabling **d
 
 ---
 
-## 👤 About Me
-
-Hi, I’m **Mukul Garg**, an aspiring **Data Engineer / Data Analyst** passionate about building scalable data solutions and turning raw data into actionable insights.  
-
-- 📍 Location: Gidderbaha, Punjab, India  
-- 🎓 Background: Data Science & Engineering Enthusiast  
-- 💼 Open To: Data Engineering, Data Analyst, and BI Developer opportunities  
-
----
 
 ## 📬 Contact
 
-- **Email:** gargmukul91066@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mukul-garg](https://www.linkedin.com/in/mukul-garg)  
+- **Email:** mukul91066@gmail.com  
+- **LinkedIn:** [linkedin.com/in/mukul-garg](https://linkedin.com/in/mukul-garg-5b533b245)  
 - **GitHub:** [github.com/gargmukul91066](https://github.com/gargmukul91066)  
 
 ---
