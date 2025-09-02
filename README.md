@@ -98,7 +98,7 @@ All resources are secured with proper **IAM roles** to ensure safe and seamless 
 - Designed reports showing sales trends, customer behavior, and product performance  
 - Provided actionable insights for stakeholders  
 
-![Power BI Dashboard](<img width="1565" height="886" alt="image" src="https://github.com/user-attachments/assets/f976e153-3a6d-432b-8f61-2cea647f94bc" />
+<img width="1565" height="886" alt="image" src="https://github.com/user-attachments/assets/f976e153-3a6d-432b-8f61-2cea647f94bc" />
 
 
 ---
@@ -113,17 +113,6 @@ This project highlights the power of Azure’s ecosystem for building **end-to-e
 - 💡 **Business Value:** Actionable insights delivered through Power BI dashboards  
 
 The pipeline transforms raw data into **analytics-ready datasets**, enabling **data-driven decision-making** for modern organizations.
-
----
-
-## 🛠️ Skills Demonstrated
-
-- **Cloud Platforms:** Azure (ADF, Databricks, Synapse, Storage Account)  
-- **Data Engineering:** ETL pipelines, Medallion Architecture (Bronze → Silver → Gold), Data Lakehouse  
-- **Programming & Querying:** Python (Pandas, PySpark), SQL  
-- **Data Formats & Storage:** CSV, Parquet, Delta Lake  
-- **Visualization & BI:** Power BI  
-- **Version Control:** Git, GitHub  
 
 ---
 
