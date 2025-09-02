@@ -1,7 +1,7 @@
 -- Create a master key for encryption, using a password for security.
 CREATE MASTER KEY ENCRYPTION BY PASSWORD = 'give your password';
 
--- Create a database-scoped credential with a managed identity for authentication.
+-- Create a database-scoped credential with a managed identity for authentication. 
 CREATE DATABASE SCOPED CREDENTIAL cred_mukul
 WITH 
     IDENTITY = 'Managed Identity';
