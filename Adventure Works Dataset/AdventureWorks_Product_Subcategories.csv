@@ -9,7 +9,7 @@ ProductSubcategoryKey,SubcategoryName,ProductCategoryKey
 8,Cranksets,2
 9,Derailleurs,2
 10,Forks,2
-11,Headsets,2
+11,Headsets,2 
 12,Mountain Frames,2
 13,Pedals,2
 14,Road Frames,2
@@ -36,3 +36,4 @@ ProductSubcategoryKey,SubcategoryName,ProductCategoryKey
 35,Panniers,4
 36,Pumps,4
 37,Tires and Tubes,4
+
