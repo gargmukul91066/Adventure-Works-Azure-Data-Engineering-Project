@@ -1,3 +1,8 @@
+-- NOTE:
+-- 'gargmukul66' = Azure Storage Account Name
+-- 'silver'      = Container Name
+-- 'AdventureWorks_Calendar' = Folder containing parquet files
+
 ------------------------
 -- CREATE Schema Gold
 ------------------------
