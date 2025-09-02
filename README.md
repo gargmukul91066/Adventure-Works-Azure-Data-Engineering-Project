@@ -95,7 +95,8 @@ All resources are secured with proper **IAM roles** to ensure safe and seamless 
 - Designed reports showing sales trends, customer behavior, and product performance  
 - Provided actionable insights for stakeholders  
 
-![Power BI Dashboards](https://github.com/user-attachments/assets/d597ac7d-62fa-4e7f-baaa-8bcdea150078)
+![Power BI Dashboard](<img width="1565" height="886" alt="image" src="https://github.com/user-attachments/assets/f976e153-3a6d-432b-8f61-2cea647f94bc" />
+
 
 ---
 
